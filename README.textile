@@ -1,3 +1,10 @@
+h1. Forked for 'Software as a Service' course on EdX
+
+* "Original repository":https://github.com/saasbook/typo
+* "Course":https://courses.edx.org/courses/BerkeleyX/CS.169.2x/3T2013/
+
+All what follows is the original readme
+
 h1. About Typo
 
 Typo has been around since March of 2005 making it one of the oldest blogging platforms in Rails.
